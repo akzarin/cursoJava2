@@ -1,7 +1,6 @@
 package org.example;
 
 import java.util.Locale;
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,6 +21,8 @@ public class Main {
         System.out.printf("Measure with eight decimal places: %.8f%n Rouded (three decimal places): %.3f%n", measure, measure);
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f", measure);
+
+
 
     }
 }
