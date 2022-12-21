@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f9e048c-fa66-42df-a501-665b35266148" name="Changes" comment="Exercicios logica de programação - 1 modulo do curso">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exercicios05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio04">
+  <component name="RunManager" selected="Application.exercicios05">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Curso_Java" />
@@ -57,6 +58,19 @@
     </configuration>
     <configuration name="exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.exercicio04" />
+      <module name="Curso_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicios05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exercicios05" />
       <module name="Curso_Java" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicios05" />
         <item itemvalue="Application.exercicio04" />
         <item itemvalue="Application.exercicios_logica1" />
         <item itemvalue="Application.exercicioslogica1" />
